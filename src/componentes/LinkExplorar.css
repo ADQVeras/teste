@@ -1,0 +1,16 @@
+@media screen and (max-width: 1500px) {
+    .link-explorar {
+      display: none;
+    }
+  }
+    
+
+.link-explorar{
+    position: absolute;
+    left: 32.19%;
+    right: 63.11%;
+    top: 14.54%;
+    bottom: 83.35%;
+  
+}
+

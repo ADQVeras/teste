@@ -1,0 +1,63 @@
+button{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 585px;
+    height: 98px;
+    left: 156px;
+    top: 572px;
+    
+
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+
+    color: white;
+    background: #000814;
+}
+
+
+.btn-meCadastrarComoPf{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 585px;
+    height: 98px;
+    left: 156px;
+    top: 671px;
+    
+
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-meCadastrarComoPf{
+    cursor: pointer;
+
+    color: white;
+    background: #000814;
+}
+
+.btn-cadastrarMeuNegocio{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 585px;
+    height: 98px;
+    left: 156px;
+    top: 671px;
+    
+
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-cadastrarMeuNegocio{
+    cursor: pointer;
+
+    color: white;
+    background: #000814;
+}

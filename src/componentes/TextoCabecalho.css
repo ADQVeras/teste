@@ -1,0 +1,23 @@
+
+.texto-cabecalho{
+    position: absolute;
+    width: 187.1px;
+    height: 75px;
+    left: 156px;
+    top: 90px;
+
+    font-family: 'Poppins';
+    font-weight: bold;
+    
+}
+
+.texto-subcabecalho{
+    position: absolute;
+    width: 187.1px;
+    height: 75px;
+    left: 156px;
+    top: 131px;
+
+    font-weight: lighter;
+    
+}
